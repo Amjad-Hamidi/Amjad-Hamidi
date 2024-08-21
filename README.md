@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amjad Hamidi</h1>
+![image](https://github.com/user-attachments/assets/f24d2cbc-c0c4-4f8d-afff-fb6b6ab48856)<h1 align="center">Hi 👋, I'm Amjad Hamidi</h1>
 
 ###
 
@@ -13,10 +13,13 @@
 ###
 <ul dir="auto">
 <li>
-<p dir="auto">👨‍💻 All of my projects are available at <a href="https://github.com/Amjad-Hamidi?tab=repositories">My Repositories</a></p>
+<p dir="auto">👨‍💻 All of my projects are available at : <a href="https://github.com/Amjad-Hamidi?tab=repositories">My Repositories</a></p>
 </li>
 <li>
-<p dir="auto">📫 How to reach me <strong><a href="mailto:amjadhmaidi1@gmail.com">amjadhmaidi1@gmail.com</a></strong></p>
+<p dir="auto">📫 How to reach me : <strong><a href="mailto:amjadhmaidi1@gmail.com">amjadhmaidi1@gmail.com</a></strong></p>
+</li>
+<li>
+<p dir="auto">📫 Connect with me on LinkedIn : <strong><a href="mailto:https://www.linkedin.com/in/amjad-hamidi/">https://www.linkedin.com/in/amjad-hamidi/</a></strong></p>
 </li>
 </ul>
 
