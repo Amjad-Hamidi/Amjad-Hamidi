@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f24d2cbc-c0c4-4f8d-afff-fb6b6ab48856)<h1 align="center">Hi 👋, I'm Amjad Hamidi</h1>
+<h1 align="center">Hi 👋, I'm Amjad Hamidi</h1>
 
 ###
 
