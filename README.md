@@ -11,6 +11,14 @@
 </div>
 
 ###
+<ul dir="auto">
+<li>
+<p dir="auto">👨‍💻 All of my projects are available at <a href="https://github.com/Amjad-Hamidi?tab=repositories">My Repositories</a></p>
+</li>
+<li>
+<p dir="auto">📫 How to reach me <strong><a href="mailto:amjadhmaidi1@gmail.com">amjadhmaidi1@gmail.com</a></strong></p>
+</li>
+</ul>
 
 <h3 align="left">Languages:</h3>
 
